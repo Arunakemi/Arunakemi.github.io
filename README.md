@@ -8,7 +8,9 @@ This is the source code of my portfolio at https://arunakemi.github.io/
 
 TODO: 
 - [x] Change gifs to web videos so everything load faster and in a more efficient way
-- [ ] Add mp4 videos as fallback if browser does not support webm
+- [ ] ~~Add mp4 videos as fallback if browser does not support webm~~
+- [ ] Add more recent proyects
+- [ ] Prepare the base for Portfolio V2 
 
 ---
 
