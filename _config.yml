@@ -1,0 +1,10 @@
+title: Arunakemi's Portfolio
+description: Hi! I am a software engineer from Mexico and this is my portfolio. I love making games and all parts of gamedev.
+keyw: aru aruna arunakemi colin game games programming developer gamedev dev indie portfolio
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-image-optim

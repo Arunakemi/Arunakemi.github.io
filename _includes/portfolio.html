@@ -1,0 +1,69 @@
+<div class="portfolio_grid">
+
+	{% for item in site.data.portfolio %}
+
+	<div class="portfolio_item">
+		<!-- Images -->
+		<h2>
+			{% if item.web %}
+			<a href="{{item.web}}" target="_blank">{{item.name}}</a>
+			{% else %}
+			{{item.name}}
+			{% endif %}
+		</h2>
+		
+		{% if item.tags contains "gif" %}
+		<div class="portfolio_img_container">
+			<img class="static_img"   src="assets/img/items/{{item.id}}.jpg" alt="Image of {{item.name}}">
+			<video class="animated_img" autoplay loop muted playsinline>
+				<source src="assets/img/items/{{item.id}}.webm" type="video/webm">
+				<!-- <img class="animated_img" src="assets/img/items/Gif_fallback/{{item.id}}.gif"> -->
+				Your browser does not support webm :c 
+			</video>
+		</div>
+		{% else %}
+		<img style="float: left;" src="assets/img/items/{{item.id}}.jpg">
+		{% endif %}
+
+		<div class="tags">
+			<hr>
+			{% assign t = item.tags | split: " " %}
+
+			{% for tag in t %}
+
+				{% if tag == "Boardgame" %}
+					<i class="fa-solid fa-dice" title="This is a Boardgame" alt="This is a Boardgame"></i>
+				{% elsif tag contains "." %}
+					{% assign no_extension = tag | split: "." %}
+					<img {% if no_extension.first == "C++" %} style="border-radius: 0;" {% endif %} src="assets/img/tags/{{tag}}" title="Made with {{no_extension.first}}" alt="Made with {{no_extension.first}}">
+				{% endif %}
+
+			{% endfor %}
+			<hr>
+		</div>
+		<p>{{item.description}}</p>
+
+		{% if item.web %}
+		<a class="link" href="{{item.web}}" target="_blank"><i class="fa-solid fa-link"></i></a>
+		{% endif %}
+
+	</div>
+
+	{% endfor %}
+
+</div>
+
+<!-- js libraries -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+<script>
+	var $grid = $('.portfolio_grid');
+	$grid.masonry({
+		itemSelector: '.portfolio_item',
+		columnWidth: '.portfolio_item',
+	});
+	$grid.imagesLoaded().progress( function() {
+	   $grid.masonry('layout');
+	});
+</script>

@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+  <head>
+
+    <title>{{ page.title }}</title>
+		
+    <meta charset="utf-8">
+
+		<meta property="og:title" content="{{ page.title }}"/> 
+		<meta property="og:site_name" content="{{ page.title }}"/> 
+		<meta property="og:type" content="website"/>
+		<meta property="og:url" content="https://arunakemi.github.io/"/> 
+		<meta property="og:image" content="https://arunakemi.github.io/assets/img/space.jpg"/>
+		
+		<meta name="description" content="{{ site.description }}">
+		<meta name="keywords" content="{{ site.keyw }}">
+		<meta name="author" content="Arunakemi Colin Varela"/>
+
+		<link rel="icon" href="assets/img/favicon.png">
+		<link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- css and fonts-->
+    <script src="https://kit.fontawesome.com/a325ac1370.js" crossorigin="anonymous"></script>
+    <link href='https://fonts.googleapis.com/css?family=Titillium Web' rel='stylesheet'>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+
+    <link rel="preload" href="/assets/img/space.jpg" as="image">
+    <link rel="preload" href="/assets/img/profile.jpg" as="image">
+
+  </head>
+  <body>
+
+    <div class="banner_background"></div>
+    <div class="vignette">&nbsp;</div>
+    <div class="banner_main">
+      {% include banner.html %}
+    </div>
+
+    <div class="main_content">
+      {{ content }}
+    </div>
+
+  </body>
+</html>
