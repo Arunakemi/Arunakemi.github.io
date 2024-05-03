@@ -13,8 +13,8 @@ set_bunny_size();
 app.stage.addChild(bunny);
 window.onresize = set_bunny_size;
 window.onmousemove = (e)=>{
-    bunny.x = e.pageX;
-    bunny.y = e.pageY;
+    bunny.x = e.pageX || e.touches[0].pageX;
+    bunny.y = e.pageY || e.touches[0].pageY;
 }
 app.ticker.add(() => {
     bunny.rotation += 0.01;
