@@ -1,0 +1,261 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "alias": [
+            "bunny.png",
+            "bunny"
+          ],
+          "src": [
+            "bunny-p5TSsw.webp",
+            "bunny-p5TSsw.webp",
+            "bunny-GCdACA.png",
+            "bunny-GCdACA.png"
+          ]
+        },
+        {
+          "alias": [
+            "cursors/default_cursor.png",
+            "cursors/default_cursor",
+            "default_cursor.png",
+            "default_cursor"
+          ],
+          "src": [
+            "cursors/default_cursor.png"
+          ]
+        },
+        {
+          "alias": [
+            "favicon.png",
+            "favicon"
+          ],
+          "src": [
+            "favicon-xkJunQ.webp",
+            "favicon-xkJunQ.webp",
+            "favicon-oQjM6A.png",
+            "favicon-oQjM6A.png"
+          ]
+        },
+        {
+          "alias": [
+            "fonts/x16y32pxgridgazer_regular_64.fnt",
+            "x16y32pxgridgazer_regular_64.fnt"
+          ],
+          "src": [
+            "fonts/x16y32pxgridgazer_regular_64.fnt"
+          ]
+        },
+        {
+          "alias": [
+            "fonts/x16y32pxgridgazer_regular_64.PNG",
+            "x16y32pxgridgazer_regular_64.PNG"
+          ],
+          "src": [
+            "fonts/x16y32pxgridgazer_regular_64.PNG"
+          ]
+        },
+        {
+          "alias": [
+            "profile.jpg",
+            "profile"
+          ],
+          "src": [
+            "profile-ekvvyw.webp",
+            "profile-ekvvyw.webp",
+            "profile-aUqd.jpg",
+            "profile-aUqd.jpg"
+          ]
+        },
+        {
+          "alias": [
+            "space.jpg",
+            "space"
+          ],
+          "src": [
+            "space-WbK-Iw.jpg",
+            "space-WbK-Iw.jpg",
+            "space-OG35kw.webp",
+            "space-OG35kw.webp"
+          ]
+        },
+        {
+          "alias": [
+            "vignette.png",
+            "vignette"
+          ],
+          "src": [
+            "vignette-Xs79RA.png",
+            "vignette-Xs79RA.png",
+            "vignette-n7cgPg.webp",
+            "vignette-n7cgPg.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "borders",
+      "assets": [
+        {
+          "alias": [
+            "borders"
+          ],
+          "src": [
+            "borders-Xc5TRw.png.json",
+            "borders-Xc5TRw.png.json",
+            "borders-uCHs.webp.json",
+            "borders-uCHs.webp.json"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "icons",
+      "assets": [
+        {
+          "alias": [
+            "icons"
+          ],
+          "src": [
+            "icons-Wza1xA.png.json",
+            "icons-Wza1xA.png.json",
+            "icons-h50dLA.webp.json",
+            "icons-h50dLA.webp.json"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "items_vid",
+      "assets": [
+        {
+          "alias": [
+            "items_vid/ar_vid.webm",
+            "items_vid/ar_vid",
+            "ar_vid.webm",
+            "ar_vid"
+          ],
+          "src": [
+            "items_vid/ar_vid-XR5DmQ.webm"
+          ]
+        },
+        {
+          "alias": [
+            "items_vid/colin3dlibrary_vid.webm",
+            "items_vid/colin3dlibrary_vid",
+            "colin3dlibrary_vid.webm",
+            "colin3dlibrary_vid"
+          ],
+          "src": [
+            "items_vid/colin3dlibrary_vid-7ExUDQ.webm"
+          ]
+        },
+        {
+          "alias": [
+            "items_vid/dronexvirus_vid.webm",
+            "items_vid/dronexvirus_vid",
+            "dronexvirus_vid.webm",
+            "dronexvirus_vid"
+          ],
+          "src": [
+            "items_vid/dronexvirus_vid-2YZeJg.webm"
+          ]
+        },
+        {
+          "alias": [
+            "items_vid/graveyard_vid.webm",
+            "items_vid/graveyard_vid",
+            "graveyard_vid.webm",
+            "graveyard_vid"
+          ],
+          "src": [
+            "items_vid/graveyard_vid-YRgOOg.webm"
+          ]
+        },
+        {
+          "alias": [
+            "items_vid/gunarena_vid.webm",
+            "items_vid/gunarena_vid",
+            "gunarena_vid.webm",
+            "gunarena_vid"
+          ],
+          "src": [
+            "items_vid/gunarena_vid-RI2NfQ.webm"
+          ]
+        },
+        {
+          "alias": [
+            "items_vid/hospital_vid.webm",
+            "items_vid/hospital_vid",
+            "hospital_vid.webm",
+            "hospital_vid"
+          ],
+          "src": [
+            "items_vid/hospital_vid-drnjzQ.webm"
+          ]
+        },
+        {
+          "alias": [
+            "items_vid/slime_vid.webm",
+            "items_vid/slime_vid",
+            "slime_vid.webm",
+            "slime_vid"
+          ],
+          "src": [
+            "items_vid/slime_vid-IxIhig.webm"
+          ]
+        },
+        {
+          "alias": [
+            "items_vid/star1_vid.webm",
+            "items_vid/star1_vid",
+            "star1_vid.webm",
+            "star1_vid"
+          ],
+          "src": [
+            "items_vid/star1_vid-aMumwA.webm"
+          ]
+        },
+        {
+          "alias": [
+            "items_vid/star2_vid.webm",
+            "items_vid/star2_vid",
+            "star2_vid.webm",
+            "star2_vid"
+          ],
+          "src": [
+            "items_vid/star2_vid-snJhwQ.webm"
+          ]
+        },
+        {
+          "alias": [
+            "items_vid/tt_vid.webm",
+            "items_vid/tt_vid",
+            "tt_vid.webm",
+            "tt_vid"
+          ],
+          "src": [
+            "items_vid/tt_vid-79Sriw.webm"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "items",
+      "assets": [
+        {
+          "alias": [
+            "items"
+          ],
+          "src": [
+            "items-JAnoTA.webp.json",
+            "items-JAnoTA.webp.json",
+            "items-iTG_5A.png.json",
+            "items-iTG_5A.png.json"
+          ]
+        }
+      ]
+    }
+  ]
+}
