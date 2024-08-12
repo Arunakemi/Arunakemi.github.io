@@ -12,19 +12,19 @@ html, body {
 
 p {
   font-family: sans-serif;
-  color: #1E2022;
+  color: #52616B;
   position: absolute;
   top: 50%;
-  left: 25%;
+  left: 16.5%;
   transform: translate(0%, -50%);
 }
 
 #load-bar-static {
-  background-color: #C9D6DF;
-  height: 9px;
-  width: 50%;
+  background-color: #F0F5F9;
+  height: 4px;
+  width: 67%;
   position: absolute;
-  left: 25%;
+  left: 16.5%;
   top: calc(50% + 22px);
   top: -moz-calc( 50% + 22px );
   top: -webkit-calc( 50% + 22px );

@@ -10,9 +10,7 @@
           ],
           "src": [
             "bunny-p5TSsw.webp",
-            "bunny-p5TSsw.webp",
-            "bunny-GCdACA.png",
-            "bunny-GCdACA.png"
+            "bunny-p5TSsw.webp"
           ]
         },
         {
@@ -33,9 +31,7 @@
           ],
           "src": [
             "favicon-xkJunQ.webp",
-            "favicon-xkJunQ.webp",
-            "favicon-oQjM6A.png",
-            "favicon-oQjM6A.png"
+            "favicon-xkJunQ.webp"
           ]
         },
         {
@@ -63,9 +59,7 @@
           ],
           "src": [
             "profile-ekvvyw.webp",
-            "profile-ekvvyw.webp",
-            "profile-aUqd.jpg",
-            "profile-aUqd.jpg"
+            "profile-ekvvyw.webp"
           ]
         },
         {
@@ -74,8 +68,6 @@
             "space"
           ],
           "src": [
-            "space-WbK-Iw.jpg",
-            "space-WbK-Iw.jpg",
             "space-OG35kw.webp",
             "space-OG35kw.webp"
           ]
@@ -86,8 +78,6 @@
             "vignette"
           ],
           "src": [
-            "vignette-Xs79RA.png",
-            "vignette-Xs79RA.png",
             "vignette-n7cgPg.webp",
             "vignette-n7cgPg.webp"
           ]
@@ -102,8 +92,6 @@
             "borders"
           ],
           "src": [
-            "borders-Xc5TRw.png.json",
-            "borders-Xc5TRw.png.json",
             "borders-uCHs.webp.json",
             "borders-uCHs.webp.json"
           ]
@@ -118,8 +106,6 @@
             "icons"
           ],
           "src": [
-            "icons-Wza1xA.png.json",
-            "icons-Wza1xA.png.json",
             "icons-h50dLA.webp.json",
             "icons-h50dLA.webp.json"
           ]
@@ -250,9 +236,7 @@
           ],
           "src": [
             "items-JAnoTA.webp.json",
-            "items-JAnoTA.webp.json",
-            "items-iTG_5A.png.json",
-            "items-iTG_5A.png.json"
+            "items-JAnoTA.webp.json"
           ]
         }
       ]
