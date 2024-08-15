@@ -25,8 +25,5 @@ p {
   width: 67%;
   position: absolute;
   left: 16.5%;
-  top: calc(50% + 22px);
-  top: -moz-calc( 50% + 22px );
-  top: -webkit-calc( 50% + 22px );
-  top: -o-calc( 50% + 22px );
+  top: 53%;
 }

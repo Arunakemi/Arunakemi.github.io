@@ -26,6 +26,16 @@
         },
         {
           "alias": [
+            "displace.jpeg",
+            "displace"
+          ],
+          "src": [
+            "displace-5oM8.webp",
+            "displace-5oM8.webp"
+          ]
+        },
+        {
+          "alias": [
             "favicon.png",
             "favicon"
           ],
@@ -92,8 +102,8 @@
             "borders"
           ],
           "src": [
-            "borders-uCHs.webp.json",
-            "borders-uCHs.webp.json"
+            "borders-1ow6jQ.webp.json",
+            "borders-1ow6jQ.webp.json"
           ]
         }
       ]
@@ -106,8 +116,8 @@
             "icons"
           ],
           "src": [
-            "icons-h50dLA.webp.json",
-            "icons-h50dLA.webp.json"
+            "icons-j-X4fw.webp.json",
+            "icons-j-X4fw.webp.json"
           ]
         }
       ]
