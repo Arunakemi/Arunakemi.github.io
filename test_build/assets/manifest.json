@@ -5,16 +5,6 @@
       "assets": [
         {
           "alias": [
-            "back.png",
-            "back"
-          ],
-          "src": [
-            "back-n70rPw.webp",
-            "back-n70rPw.webp"
-          ]
-        },
-        {
-          "alias": [
             "bunny.png",
             "bunny"
           ],
@@ -126,8 +116,8 @@
             "borders"
           ],
           "src": [
-            "borders-puF1UA.webp.json",
-            "borders-puF1UA.webp.json"
+            "borders-TA-ZOg.webp.json",
+            "borders-TA-ZOg.webp.json"
           ]
         }
       ]
