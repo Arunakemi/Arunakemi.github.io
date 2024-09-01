@@ -7,12 +7,12 @@ html, body {
   overflow: hidden;
   height: 100%;
   width: 100%;
-  background-color: #C9D6DF;
+  background-color: #F0F5F9;
 }
 
 p {
   font-family: sans-serif;
-  color: #52616B;
+  color: #000000;
   position: absolute;
   top: 50%;
   left: 16.5%;
@@ -20,7 +20,7 @@ p {
 }
 
 #load-bar-static {
-  background-color: #F0F5F9;
+  background-color: #cdd1d5;
   height: 4px;
   width: 67%;
   position: absolute;

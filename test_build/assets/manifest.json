@@ -5,16 +5,6 @@
       "assets": [
         {
           "alias": [
-            "bunny.png",
-            "bunny"
-          ],
-          "src": [
-            "bunny-p5TSsw.webp",
-            "bunny-p5TSsw.webp"
-          ]
-        },
-        {
-          "alias": [
             "cursors/default_cursor.png",
             "cursors/default_cursor",
             "default_cursor.png",
@@ -22,16 +12,6 @@
           ],
           "src": [
             "cursors/default_cursor.png"
-          ]
-        },
-        {
-          "alias": [
-            "displace.jpeg",
-            "displace"
-          ],
-          "src": [
-            "displace-5oM8.webp",
-            "displace-5oM8.webp"
           ]
         },
         {
@@ -61,36 +41,6 @@
           "src": [
             "fonts/x16y32pxgridgazer_regular_64.PNG"
           ]
-        },
-        {
-          "alias": [
-            "profile.jpg",
-            "profile"
-          ],
-          "src": [
-            "profile-ekvvyw.webp",
-            "profile-ekvvyw.webp"
-          ]
-        },
-        {
-          "alias": [
-            "space.jpg",
-            "space"
-          ],
-          "src": [
-            "space-OG35kw.webp",
-            "space-OG35kw.webp"
-          ]
-        },
-        {
-          "alias": [
-            "vignette.png",
-            "vignette"
-          ],
-          "src": [
-            "vignette-n7cgPg.webp",
-            "vignette-n7cgPg.webp"
-          ]
         }
       ]
     },
@@ -102,8 +52,8 @@
             "backgrounds"
           ],
           "src": [
-            "backgrounds-yz7oxA.webp.json",
-            "backgrounds-yz7oxA.webp.json"
+            "backgrounds-yHTwyQ.webp.json",
+            "backgrounds-yHTwyQ.webp.json"
           ]
         }
       ]
@@ -116,8 +66,8 @@
             "borders"
           ],
           "src": [
-            "borders-onTT.webp.json",
-            "borders-onTT.webp.json"
+            "borders-_Oma.webp.json",
+            "borders-_Oma.webp.json"
           ]
         }
       ]
@@ -130,126 +80,15 @@
             "icons"
           ],
           "src": [
-            "icons-k7xmbQ.webp.json",
-            "icons-k7xmbQ.webp.json"
+            "icons-lN9Wgg.webp.json",
+            "icons-lN9Wgg.webp.json"
           ]
         }
       ]
     },
     {
       "name": "items_vid",
-      "assets": [
-        {
-          "alias": [
-            "items_vid/ar_vid.webm",
-            "items_vid/ar_vid",
-            "ar_vid.webm",
-            "ar_vid"
-          ],
-          "src": [
-            "items_vid/ar_vid-XR5DmQ.webm"
-          ]
-        },
-        {
-          "alias": [
-            "items_vid/colin3dlibrary_vid.webm",
-            "items_vid/colin3dlibrary_vid",
-            "colin3dlibrary_vid.webm",
-            "colin3dlibrary_vid"
-          ],
-          "src": [
-            "items_vid/colin3dlibrary_vid-7ExUDQ.webm"
-          ]
-        },
-        {
-          "alias": [
-            "items_vid/dronexvirus_vid.webm",
-            "items_vid/dronexvirus_vid",
-            "dronexvirus_vid.webm",
-            "dronexvirus_vid"
-          ],
-          "src": [
-            "items_vid/dronexvirus_vid-2YZeJg.webm"
-          ]
-        },
-        {
-          "alias": [
-            "items_vid/graveyard_vid.webm",
-            "items_vid/graveyard_vid",
-            "graveyard_vid.webm",
-            "graveyard_vid"
-          ],
-          "src": [
-            "items_vid/graveyard_vid-YRgOOg.webm"
-          ]
-        },
-        {
-          "alias": [
-            "items_vid/gunarena_vid.webm",
-            "items_vid/gunarena_vid",
-            "gunarena_vid.webm",
-            "gunarena_vid"
-          ],
-          "src": [
-            "items_vid/gunarena_vid-RI2NfQ.webm"
-          ]
-        },
-        {
-          "alias": [
-            "items_vid/hospital_vid.webm",
-            "items_vid/hospital_vid",
-            "hospital_vid.webm",
-            "hospital_vid"
-          ],
-          "src": [
-            "items_vid/hospital_vid-drnjzQ.webm"
-          ]
-        },
-        {
-          "alias": [
-            "items_vid/slime_vid.webm",
-            "items_vid/slime_vid",
-            "slime_vid.webm",
-            "slime_vid"
-          ],
-          "src": [
-            "items_vid/slime_vid-IxIhig.webm"
-          ]
-        },
-        {
-          "alias": [
-            "items_vid/star1_vid.webm",
-            "items_vid/star1_vid",
-            "star1_vid.webm",
-            "star1_vid"
-          ],
-          "src": [
-            "items_vid/star1_vid-aMumwA.webm"
-          ]
-        },
-        {
-          "alias": [
-            "items_vid/star2_vid.webm",
-            "items_vid/star2_vid",
-            "star2_vid.webm",
-            "star2_vid"
-          ],
-          "src": [
-            "items_vid/star2_vid-snJhwQ.webm"
-          ]
-        },
-        {
-          "alias": [
-            "items_vid/tt_vid.webm",
-            "items_vid/tt_vid",
-            "tt_vid.webm",
-            "tt_vid"
-          ],
-          "src": [
-            "items_vid/tt_vid-79Sriw.webm"
-          ]
-        }
-      ]
+      "assets": []
     },
     {
       "name": "items",
