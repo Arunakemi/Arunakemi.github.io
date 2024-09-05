@@ -8,4 +8,4 @@ The portfolio was built using Typescript running on NodeJS, what you see here is
 
 ---
 
-Thanks to Dmytro Vyshnevskyi on Flaticon for the [VR](https://www.flaticon.com/free-icons/vr-glasses) and [AR](https://www.flaticon.com/free-icons/augmented-reality) icons, and thanks to the great [Kenney](www.kenney.nl) for the border graphics and cursor. Also the amazing [font](https://hicchicc.github.io/00ff/) used was made by 患者長ひっく 
+Thanks to [Dmytro Vyshnevskyi](https://www.flaticon.com/authors/dmytro-vyshnevskyi) on Flaticon for the VR and AR icons, and thanks to the great [Kenney](www.kenney.nl) for the border graphics and cursor. Also the amazing [font](https://hicchicc.github.io/00ff/) used was made by 患者長ひっく 
