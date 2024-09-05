@@ -1,0 +1,90 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "alias": [
+            "cursors/default_cursor.png",
+            "cursors/default_cursor",
+            "default_cursor.png",
+            "default_cursor"
+          ],
+          "src": [
+            "cursors/default_cursor.png"
+          ]
+        },
+        {
+          "alias": [
+            "favicon.png",
+            "favicon"
+          ],
+          "src": [
+            "favicon-xkJunQ.webp",
+            "favicon-xkJunQ.webp"
+          ]
+        },
+        {
+          "alias": [
+            "fonts/x16y32pxgridgazer_regular_64.fnt",
+            "x16y32pxgridgazer_regular_64.fnt"
+          ],
+          "src": [
+            "fonts/x16y32pxgridgazer_regular_64.fnt"
+          ]
+        },
+        {
+          "alias": [
+            "fonts/x16y32pxgridgazer_regular_64.PNG",
+            "x16y32pxgridgazer_regular_64.PNG"
+          ],
+          "src": [
+            "fonts/x16y32pxgridgazer_regular_64.PNG"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "borders",
+      "assets": [
+        {
+          "alias": [
+            "borders"
+          ],
+          "src": [
+            "borders-h_tEWQ.webp.json",
+            "borders-h_tEWQ.webp.json"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "icons",
+      "assets": [
+        {
+          "alias": [
+            "icons"
+          ],
+          "src": [
+            "icons-buhhgQ.webp.json",
+            "icons-buhhgQ.webp.json"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "items",
+      "assets": [
+        {
+          "alias": [
+            "items"
+          ],
+          "src": [
+            "items-FdB92Q.webp.json",
+            "items-FdB92Q.webp.json"
+          ]
+        }
+      ]
+    }
+  ]
+}

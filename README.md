@@ -1,19 +1,11 @@
 ## Arunakemi Alejandra Colin Varela
 
-This is the source code of my portfolio at https://arunakemi.github.io/ 
-
-
----
-
-
-TODO: 
-- [x] Change gifs to web videos so everything load faster and in a more efficient way
-- [ ] ~~Add mp4 videos as fallback if browser does not support webm~~
-- [ ] Add more recent proyects
-- [ ] Prepare the base for Portfolio V2 
+This is the code of my portfolio at https://arunakemi.github.io/ , I'm using Github pages to host it.
 
 ---
 
+The portfolio was built using Typescript running on NodeJS, what you see here is the build output. The main libraries I used are [PixiJS](https://pixijs.com/) for canvas graphics, [MatterJS](https://brm.io/matter-js/) for physics, and [AnimeJS](https://animejs.com/) for animations.
 
-This portfolio was inspired by [Noel Berry's portfolio](http://noelfb.com/) and made using the tools provided by Github pages like Jekyll and such.
-I also used Masonry js to arrange my projects in a grid. As Noel's portfolio source code is public I learned a lot reading it and wanted to make my own portfolio source code public too.
+---
+
+Thanks to Dmytro Vyshnevskyi on Flaticon for the [VR](https://www.flaticon.com/free-icons/vr-glasses) and [AR](https://www.flaticon.com/free-icons/augmented-reality) icons, and thanks to the great [Kenney](www.kenney.nl) for the border graphics and cursor
