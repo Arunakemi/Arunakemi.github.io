@@ -21,7 +21,9 @@
           ],
           "src": [
             "favicon-xkJunQ.webp",
-            "favicon-xkJunQ.webp"
+            "favicon-xkJunQ.webp",
+            "favicon-oQjM6A.png",
+            "favicon-oQjM6A.png"
           ]
         },
         {
@@ -52,8 +54,10 @@
             "borders"
           ],
           "src": [
-            "borders-h_tEWQ.webp.json",
-            "borders-h_tEWQ.webp.json"
+            "borders-x6cvNQ.webp.json",
+            "borders-x6cvNQ.webp.json",
+            "borders-bT6Fzw.png.json",
+            "borders-bT6Fzw.png.json"
           ]
         }
       ]
@@ -66,6 +70,8 @@
             "icons"
           ],
           "src": [
+            "icons-iMYVXw.png.json",
+            "icons-iMYVXw.png.json",
             "icons-buhhgQ.webp.json",
             "icons-buhhgQ.webp.json"
           ]
@@ -81,7 +87,9 @@
           ],
           "src": [
             "items-FdB92Q.webp.json",
-            "items-FdB92Q.webp.json"
+            "items-FdB92Q.webp.json",
+            "items-8wRObw.png.json",
+            "items-8wRObw.png.json"
           ]
         }
       ]
